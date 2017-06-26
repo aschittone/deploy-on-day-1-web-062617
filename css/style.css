@@ -1616,7 +1616,7 @@ body.students ul li.home-blog-post{
 
 .home-blog-post .excerpt p {
     font-size: 13px;
-    margin-bottom: 0;
+    margin-bottom: 1;
     padding: 0;
 }
 
