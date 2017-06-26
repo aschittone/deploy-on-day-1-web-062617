@@ -1566,7 +1566,7 @@ h3#comments {
 .services h4{
   font-size: 14px;
   line-height: 0;
-  text-decoration: underline
+  text-decoration: none
 }
 .services:hover .service-icon {
     background: #fff666;
